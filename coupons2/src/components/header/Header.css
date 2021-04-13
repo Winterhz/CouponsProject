@@ -1,0 +1,38 @@
+.headerComponent1Div {
+    background-image: url("http://localhost:3000/headerBackground.png"); 
+    color: white;
+    width: 732px;
+    height: 109px;
+    display: inline-block;
+    margin-left: 0px;
+    position: absolute;
+    top: -1px;
+    right: 804px;
+}
+.headerComponent2Div {
+    background-image: url("http://localhost:3000/headerBackground.png"); 
+    color: white;
+    width: 400px;
+    margin-top: -20px;
+    height: 110.5px;
+    display: inline-block;
+    margin-left: 0px;
+    position: absolute;
+    top: 17.5px;
+    left: 732px;
+}
+.headerComponent3Div {
+    background-image: url("http://localhost:3000/headerBackground.png"); 
+    color: white;
+    width: 405px;
+    margin-top: -20px;
+    height: 109px;
+    display: inline-block;
+    margin-left: 0px;
+    position: absolute;
+    top: 19px;
+    left: 1132px;
+}
+.header {
+    display: inline-block;
+}

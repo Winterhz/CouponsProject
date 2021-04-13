@@ -1,0 +1,11 @@
+.about {
+    height: 100%;
+    margin: 0;
+    position: relative;
+    top: 0%;
+    font-size: 40px;
+}
+.iconSmile{
+    position: relative;
+    top: -20px;
+}

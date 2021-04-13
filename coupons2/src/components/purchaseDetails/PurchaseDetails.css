@@ -1,0 +1,27 @@
+.purchaseDetails {
+    background-color: rgb(70, 117, 117);
+    width: 60%;
+    height: 90%;
+    text-align: left;
+    margin: auto;
+    border-radius: 5%;
+    border: 3px solid black;
+    word-wrap: break-word;
+    overflow-y: auto;
+    overflow-x: hidden;
+    /*display: flex;
+    align-items: flex-start;*/
+    
+    min-height: 99%;
+    color: whitesmoke;
+}
+.purchaseDetails span{
+    text-decoration: underline;
+    color:black;
+    font-size: 20px;
+    font-weight: bold;
+}
+.purchaseDetails p{
+    margin: 15px;
+    font-size: 17px;
+}

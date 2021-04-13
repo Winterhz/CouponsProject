@@ -1,0 +1,12 @@
+.headerComponent1 {
+    color: black;
+    width: 732px;
+    margin-top: -20px;
+    height: 106px;
+    display: inline-block;
+    margin-left: 0px;
+}
+.headerComponent1 > h1 {
+    display: inline;
+    font-size: 40px;
+}

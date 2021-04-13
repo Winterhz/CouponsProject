@@ -1,0 +1,20 @@
+.menu>div{
+    display: block;
+    padding: 7.58%;
+    background-color: teal;
+    border: 1px solid black;
+    transition:  background-color 0.3s ease-in-out;
+}
+.menu>div:hover{
+    background-color: mediumturquoise;
+}
+#menuInnerDiv{
+    font-family: fantasy;
+    font-size: 30px;
+}
+.menu{
+    margin: 0; /*убирает оранжевые поля*/
+    padding: 0; /*убирает зеленые поля*/
+    box-sizing: border-box; /*убирает зеленые поля и рамку*/
+ }
+ 

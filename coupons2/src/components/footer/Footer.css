@@ -1,0 +1,14 @@
+
+.footer .footerBG{
+    background-color: aqua;
+}
+.footerBG{
+    position: relative;
+    top: -8px;
+}
+.iconBrand{
+    position: relative;
+    top: -16px;
+    left: 630px;
+    margin-left: 30px;
+}

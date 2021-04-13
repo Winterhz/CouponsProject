@@ -1,0 +1,57 @@
+.card{
+    width: 200px;
+    height: 200px;
+    margin:10px;  
+
+    overflow-y: auto;
+
+    word-wrap: break-word;
+    max-width: 100%;
+    overflow-x: hidden;
+    background-color: rosybrown;
+
+    border-radius: 20px;
+}
+.topCard{
+    color: black;
+    height: 59px;
+    transform: translateZ(20px);
+}
+.container{
+    display: inline-block;
+}
+
+.cardTilt{
+    transform-style: preserve-3d;
+    transform: perspective();
+}
+.card .couponInfo{
+    transform: translateZ(170px);
+    color:black;
+}
+.showDetailsAboutCouponCard {
+    width: 100px;
+    border-radius: 10px;
+    height: 22px;
+    background-color: white;
+    color: black;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+/*.menu>div {
+    width: 100px;
+    height: 100px;
+    background-color: #d62e2e;
+    
+    animation: 2s moveX forwards;
+    animation-delay: 1s;
+}
+@keyframes moveX {
+    from {
+        transform: translateX(0);
+    }
+    to {
+        transform: translateX(100px);   
+    }
+}*/

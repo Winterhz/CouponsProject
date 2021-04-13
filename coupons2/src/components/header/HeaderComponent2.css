@@ -1,0 +1,15 @@
+.headerComponent2 {
+    color: black;
+    width: 400px;
+    margin-top: -20px;
+    height: 106px;
+    display: inline;
+}
+.headerComponent2 > p {
+    font-size: 26px;
+}
+.headerComponent2Button {
+    border-radius: 15%;
+    background-color: lightskyblue;
+    cursor: pointer;
+}

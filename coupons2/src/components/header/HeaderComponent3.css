@@ -1,0 +1,12 @@
+.headerComponent3 {
+    color: black;
+    width: 410px;
+    margin-top: -20px;
+    height: 106px;
+    display: inline-block;
+    margin-left: 0px;
+}
+.headerComponent3 > p {
+    display: inline;
+    font-size: 19px;
+}

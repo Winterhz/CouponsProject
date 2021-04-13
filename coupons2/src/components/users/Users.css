@@ -1,0 +1,67 @@
+.usersTable {
+    width: 50%;
+    background-color: darkslategray;
+    color: white;
+    border-radius: 12%;
+    align-self: center;
+    margin: auto;
+}
+.usersInfo {
+    text-align: center;
+    margin: auto;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    border: 1px solid white;
+    width: 100%;
+    max-width: 100%;
+}
+.tbody {
+    align-content: center;
+    text-align: center;
+    margin: auto;
+}
+.th, .td, .tr{
+    border: 3px solid white;
+    padding: 8px;
+    margin: auto;
+}
+th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #4CAF50;
+    color: white;
+  }
+.userRow{
+    border: 1px solid white;
+    background-color: seagreen;
+}
+.users {
+    margin: auto;
+}
+.searchUserInUsers {
+    margin-top: 15px;
+    margin-right: 40px;
+    border-radius: 25px;
+    width: 250px;
+    height: 22px;
+}
+.users > span {
+    font-size: 18px;
+}
+.createNewUserForAdmin {
+    width: 200px;
+    border-radius: 25px;
+    height: 30px;
+    margin-left: 400px;
+    background-color: rosybrown;
+    color: black;
+    font-size: 20px;
+    cursor: pointer;
+}
+#deleteUserForAdmin {
+    cursor: pointer;
+    background-color: black;
+    color:white;
+    cursor: pointer;
+}
